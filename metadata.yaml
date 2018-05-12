@@ -1,0 +1,38 @@
+_repo: Thought-Forms_16269
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Besant, Annie
+    aliases:
+    - Besant, Annie Wood
+    - Wood, Annie
+    birthdate: 1847
+    deathdate: 1933
+    gutenberg_agent_id: '1425'
+    url: http://www.gutenberg.org/2009/agents/1425
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Besant
+  - agent_name: Leadbeater, C. W. (Charles Webster)
+    alias: Leadbeater, Charles Webster
+    birthdate: 1854
+    deathdate: 1934
+    gutenberg_agent_id: '4699'
+    url: http://www.gutenberg.org/2009/agents/4699
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Webster_Leadbeater
+description: ''
+gutenberg_issued: '2005-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BP'
+- !lcsh 'Thought and thinking -- Religious aspects -- Theosophy'
+- !lcsh 'Theosophy -- Doctrines'
+title: Thought-Forms
+url: http://www.gutenberg.org/ebooks/16269
